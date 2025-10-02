@@ -1,31 +1,43 @@
 # Welcome to My Portfolio
 
-## Project info
+# Hi there 👋, I'm Harish Sidagam
 
-**URL**:
+💻 **AI/ML Engineer | Frontend Developer**
 
+---
 
-**Edit a file directly in GitHub**
+### 🚀 About Me
+- 🌱 Exploring **Machine Learning, NLP, and Data Science**
+- 💻 Skilled in **Python, C, C++, JavaScript**
+- 🌐 Building **scalable web applications** with React
+- 🗄️ Working with **SQLite, MySQL**
+- 🛠️ Familiar with tools like **Git, GitHub, Postman, Jupyter Notebook, Mapbox**
+- ✨ Strong in **Leadership, Teamwork, and Problem-Solving**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+### 🔹 Skills
+- **Programming Languages:** Python, C, C++, JavaScript
+- **AI/ML & Data Science:** Machine Learning, NLP, Data Analysis, Pandas, NumPy, Scikit-learn, TensorFlow  
+- **Frontend:** HTML, CSS, React, Bootstrap, Tailwind CSS  
+- **Backend:** REST APIs,FastAPIs  
+- **Databases:** SQLite, MySQL  
+- **Tools:** Git, GitHub, Postman, VS Code, Jupyter Notebook  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+### 🔹 Projects
+- 📊 Complaint Detection in Online Products (**NLP-based**)  
+- 🧑‍💻 Smart Attendance System (Frontend Project)  
+- 💬 Generative AI Chatbot (Web/Flutter App)  
+- 🏆 Bid Spark (Coding Event Organizer)  
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/harish-sidagam/)  
+- [GitHub](https://github.com/HarishSidagam8)  
+- [Email](harishsidagam.s8@gmail.com)  
 
+---
+⭐️ From [Harish Sidagam](#)
