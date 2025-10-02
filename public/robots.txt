@@ -12,3 +12,5 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+/*    /index.html   200
